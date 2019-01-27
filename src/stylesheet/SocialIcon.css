@@ -1,0 +1,29 @@
+.icon {
+  text-decoration: none;
+	color: #fff;
+	font-size: 2em;
+}
+
+.icon:hover {
+  transition: color 0.5s ease;
+}
+
+.icon.linkedin:hover {
+	color: #0077B5;
+}
+
+.icon.instagram:hover {
+	color: #fbad50;
+}
+
+.icon.facebook:hover {
+	color: #3B5998;
+}
+
+.icon.mail:hover {
+	color: #ff6961;
+}
+
+.icon.resume:hover {
+	color: #77dd77;
+}
